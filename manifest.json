@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Image Describe",
+  "version": "1.0",
+  "description": "Right click any image and ask an AI to describe it.",
+  "permissions": [
+    "contextMenus",
+    "storage",
+    "notifications"
+  ],
+  "host_permissions": [
+    "https://api.openai.com/*",
+    "https://*.openai.azure.com/*",
+    "http://localhost:3000/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "options_page": "options.html",
+  "action": {
+    "default_title": "Image Describe"
+  }
+}
