@@ -66,6 +66,19 @@ image-describe-extension/
 ```
 
 ---
+## Project Outputs
+
+Here are some screenshots showing the working of the project:
+
+### Screenshot 1
+![Output 2](screenshots/Screenshot%202025-09-30%20002552.png)
+
+### Screenshot 2
+![Output 3](screenshots/Screenshot%202025-09-30%20002631.png)
+
+### Screenshot 3
+![Output 4](screenshots/Screenshot%202025-09-30%20003216.png)
+
 
 ## Notes
 
